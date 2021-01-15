@@ -18,9 +18,9 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehran1421&show_icons=true&count_private=true" alt="mehran1421" />
 
-</p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehran1421&theme=default&line_height=27&layout=compact" />
-<p>
+<a href="https://github.com/mehran1421">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehran1421&show_icons=true&count_private=true&include_all_commits=true&theme=nord" /></a>
+<a href="https://github.com/mehran1421">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehran1421&theme=nord" />
+</a>
