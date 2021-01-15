@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehran Kamrani</h1>
 
 ![age](https://img.shields.io/badge/age-21-blue)
-
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
-
 ![living](https://img.shields.io/badge/living-iran-3c9)
 
 
