@@ -19,6 +19,8 @@
 </div>
 
 <br>
+<br>
+<br>
 
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
