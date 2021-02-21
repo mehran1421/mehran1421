@@ -18,6 +18,9 @@
 - 🌱 I’m currently learning **Django, JavaScript**
 - 💬 Ask me about **Django,Python,Java,Cpp,...**
 - 📫 Reach me at **m.kamrani1421@gmail.com**
+- 🚢 Open source contributor
+- 🤝 Always open for cooperation
+- ❤️ Cats 😸, whales 🐳 and guitars 🎸
 
 </div>
 
