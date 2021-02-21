@@ -1,4 +1,6 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="25px" >, I'm Mehran Kamrani</h1>
+<div align="center">
+  <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="25px" >, I'm Mehran Kamrani</h1>
+</div>
 
 ![age](https://img.shields.io/badge/age-21-blue)
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
@@ -8,9 +10,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehran1421&show_icons=true&count_private=true&include_all_commits=true&theme=nord" />
 
 - 🌱 I’m currently learning **Django, JavaScript**
-
 - 💬 Ask me about **Django,Python,Java,Cpp,...**
-
 - 📫 Reach me at **m.kamrani1421@gmail.com**
 
 <br>
