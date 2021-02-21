@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="25px" >, I'm Mehran Kamrani</h1>
-<div align="centert">
+
 ![age](https://img.shields.io/badge/age-21-blue)
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
 ![living](https://img.shields.io/badge/living-iran-3c9)
-</div>
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehran1421&show_icons=true&count_private=true&include_all_commits=true&theme=nord" />
 
