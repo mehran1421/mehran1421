@@ -8,6 +8,9 @@
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
 ![living](https://img.shields.io/badge/living-iran-3c9)
 
+<br>
+<br>
+
 
   
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mehran1421&show_icons=true&count_private=true&include_all_commits=true&theme=nord" />
@@ -18,6 +21,9 @@
 
 </div>
 
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
