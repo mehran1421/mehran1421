@@ -11,10 +11,6 @@
 <br>
 <br>
 
-
-  
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mehran1421&show_icons=true&count_private=true&include_all_commits=true&theme=nord" />
-
 - 🌱 I’m currently learning **Django, JavaScript**
 - 💬 Ask me about **Django,Python,Java,Cpp,...**
 - 📫 Reach me at **m.kamrani1421@gmail.com**
@@ -26,6 +22,9 @@
 
 <br>
 <br>
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=mehran1421&hide_border=true&show_icons=true&line_height=40&include_all_commits=true&count_private=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehran1421&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div align="center">
