@@ -4,9 +4,8 @@
 
 <div>
   
-![age](https://img.shields.io/badge/age-21-blue)
-![focus](https://img.shields.io/badge/focus-backend-brightgreen)
-![living](https://img.shields.io/badge/living-iran-3c9)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=40&color=333300&center=true&vCenter=true&width=900&height=110&lines=Mehran+kamrani;Age+21;Backend+Developer;Programmer;Django+Developer;Tech-savvy+person+from+Iran)](https://git.io/typing-svg)
+
 
 <br>
 <br>
