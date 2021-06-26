@@ -19,17 +19,31 @@
 - ❤️ Cats 😸, whales 🐳 and guitars 🎸
 
 </div>
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="40" height="40"/>
-</div>
-
 <br>
+<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#top-technologies"></a>🚀 My Tools And Technologies</h3>
+ 
+[![Python Badge](https://img.shields.io/badge/Python-35495E?style=for-the-badge&logo=Python&logoColor=4FC08D)](#) 
+[![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)
+[![c Badge](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&labelColor=white&logo=c&logoColor=A8B9CC)](#)
+[![c++ Badge](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&labelColor=white&logo=c&logoColor=00599C)](#) 
+[![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#) 
+[![HTML Badge](https://img.shields.io/badge/HTML-43853D?style=for-the-badge&logo=HTML&logoColor=white)](#)
+[![CSS Badge](https://img.shields.io/badge/CSS-43853D?style=for-the-badge&logo=CSS&logoColor=white)](#) 
+[![VCode Badge](https://img.shields.io/badge/VCode-20232A?style=for-the-badge&logo=VCode&logoColor=61DAFB)](#) 
+[![Git Badge](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=Git&logoColor=61DAFB)](#) 
+[![MYSQL Badge](https://img.shields.io/badge/MYSQL-20232A?style=for-the-badge&logo=MYSQL&logoColor=61DAFB)](#) 
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=MongoDB&logoColor=61DAFB)](#) 
+[![GitHub Badge](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=GitHub&logoColor=61DAFB)](#) 
+[![Linux Badge](https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=Linux&logoColor=61DAFB)](#) 
+[![Windows Badge](https://img.shields.io/badge/Windows-20232A?style=for-the-badge&logo=Windows&logoColor=61DAFB)](#) 
+[![JSON Badge](https://img.shields.io/badge/JSON-20232A?style=for-the-badge&logo=JSON&logoColor=61DAFB)](#) 
+[![AI Badge](https://img.shields.io/badge/AI-35495E?style=for-the-badge&logo=AI&logoColor=4FC08D)](#)
+ <hr>
+ 
+<br>
+
+
+![](https://activity-graph.herokuapp.com/graph?username=mehran1421&theme=radical&area=true)
 
 <p align="center">
   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
@@ -51,5 +65,3 @@
 <img src="https://profile-counter.glitch.me/mehran1421/count.svg" />
 </p>
 
-![](https://activity-graph.herokuapp.com/graph?username=mehran1421&theme=radical&area=true)
-</p>
