@@ -30,16 +30,26 @@
 </div>
 
 <br>
-<br>
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=mehran1421&hide_border=true&show_icons=true&line_height=40&include_all_commits=true&count_private=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehran1421&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+  <h2 align="center">My Github Profile Trophy</h2>
+</p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mehran1421&theme=radical&margin-w=40&margin-h=40)](https://github.com/mehran1421)
 
-<br>
+<p align="center">
+ <h2 align="center">My Github Stats</h2>
 
-<div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=mehran1421&theme=flat&no-frame=true&margin-w=30" />
-</div>
+|My github statistics|My languages|Streaks|
+|-|-|-|
+|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=mehran1421&show_icons=true&theme=radical&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehran1421&show_icons=true&theme=radical&layout=compact&hide_title=true)](https://github.com/Cyebukayire)|![Cyebukayire](https://github-readme-streak-stats.herokuapp.com/?user=mehran1421&theme=radical)
+<hr>
 
-![](https://activity-graph.herokuapp.com/graph?username=mehran1421&theme=react-dark&area=true)
+<p align="center"> 
+  Visitor Count<br>
+<img src="https://profile-counter.glitch.me/mehran1421/count.svg" />
+</p>
+
+![](https://activity-graph.herokuapp.com/graph?username=mehran1421&theme=radical&area=true)
+</p>
