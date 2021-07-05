@@ -41,7 +41,7 @@
 
 |My github statistics|My languages|Streaks|
 |-|-|-|
-|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=mehran1421&show_icons=true&theme=radical&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehran1421&show_icons=true&theme=radical&layout=compact&hide_title=true)](https://github.com/Cyebukayire)|![Cyebukayire](https://github-readme-streak-stats.herokuapp.com/?user=mehran1421&theme=radical)
+|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=mehran1421&show_icons=true&theme=radical&hide_title=true)](https://github.com/mehran1421)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehran1421&show_icons=true&theme=radical&layout=compact&hide_title=true)](https://github.com/mehran1421)|![Cyebukayire](https://github-readme-streak-stats.herokuapp.com/?user=mehran1421&theme=radical)
 <hr>
 
 <p align="center"> 
